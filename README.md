@@ -18,10 +18,6 @@ Este programa facilita a interpretação de dados já existentes. O usuário pre
    ![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/40789374-6f8c-4a1a-9b31-48f3abebdd6f)
 2. Assim que o código for executado, insira o caminho do seu arquivo `.csv` quando solicitado.
 
-Para mais detalhes sobre como usar o programa, assista ao vídeo explicativo:
-
-<a target="_blank" href="https://youtu.be/FMPBJVXE2eA?si=-1kHIUpL_TAnF_VB">Assista o vídeo para mais informações!</a>
-
 # Integrantes do Grupo
 - Giovanne Charelli - RM 556223
 - Vinicius Matareli - RM 555200
