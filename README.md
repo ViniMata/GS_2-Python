@@ -30,9 +30,6 @@ Para mais detalhes sobre como usar o programa, assista ao vídeo explicativo:
 - Giovanne Charelli - RM 556223
 - Vinicius Matareli - RM 555200
 
-# Vídeo Explicativo
-<a target="_blank" href="https://youtu.be/FMPBJVXE2eA?si=-1kHIUpL_TAnF_VB">Assista o vídeo para mais informações!</a>
-
 # Como o Código Funciona
 O código realiza as seguintes etapas:
 
