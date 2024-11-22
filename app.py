@@ -69,7 +69,7 @@ def main(arquivo, coluna_energia, paises=None, ano_inicio=None, ano_fim=None):
 #Parametros de entrada
 arquivo = "modern-renewable-energy-consumption.csv"
 coluna_energia = "Hydro generation - TWh"  # Escolha de coluna
-paises = ["Brazil","Argentina"]  # Exemplo de países
+paises = ["Germany", "Brazil", "Africa"]  # Exemplo de países
 ano_inicio = 2013
 ano_fim = 2023
 
