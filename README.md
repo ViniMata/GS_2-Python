@@ -4,10 +4,6 @@ A situação dos oceanos está preocupante, pois ele está enfrentando sérios p
 # Solução proposta
 Este programa facilita a interpretação de dados já existentes. O usuário precisa apenas ter uma tabela feita e selecionar os dados que deseja comparar. O projeto visa melhorar a visualização de tabelas para que o usuário possa tirar conclusões mais rapidamente e com menos trabalho, fornecendo insights sobre o crescimento das fontes de energia renováveis em diferentes países ao longo dos anos.
 
-# Exemplo do Gráfico
-<br>
-![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/8139f720-7c95-47c1-8bac-053cf486ef35)
-
 # Requisitos
 - Ter uma tabela com os dados que deseja manipular (exemplo: um arquivo `.csv` com informações sobre consumo de energia renovável).
 - Ter o Python instalado na máquina.
