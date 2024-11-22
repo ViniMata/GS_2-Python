@@ -38,7 +38,7 @@ Este programa facilita a interpretação de dados históricos sobre energia reno
 )
 
 ## Relatório
-Para mais detalhes sobre os resultados e conclusões, veja o relatório completo em `relatorio.pdf`.
+Para mais detalhes sobre os resultados e conclusões, veja o relatório completo em `Relatório de Análise de Energia Renovável.docx`.
 
 ## Integrantes do Grupo
 - Giovanne Charelli - RM 556223
