@@ -33,9 +33,6 @@ Este programa facilita a interpretação de dados históricos sobre energia reno
 3. **Analisa o crescimento** de energia renovável por país e ano.
 4. **Gera gráficos** para visualização clara.
 
-## Gráfico Gerado (Exemplo)
-![Exemplo de Gráfico](![image](https://github.com/user-attachments/assets/9745b276-cf04-42f0-b1eb-d7b8fe1f5648)
-)
 
 ## Relatório
 Para mais detalhes sobre os resultados e conclusões, veja o relatório completo em `Relatório de Análise de Energia Renovável.docx`.
